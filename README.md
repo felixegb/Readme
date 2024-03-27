@@ -6,7 +6,7 @@
   
 - Sobre mí 🚀
   
-    💼 Actualmente Estudiando un Master en Ingenieria de Sistemas y la computacion en el área del Big Data e IoT.
+    💼 Actualmente Estudiando un máster en Ingeniería de Sistemas y Computación en el área del Big Data e IoT.
   
     🌱 Siempre aprendiendo y explorando nuevas tecnologías y metodologías en el ámbito de la ciencia de datos.
   
