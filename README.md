@@ -14,5 +14,5 @@
   
     Ciencia de Datos: Análisis de datos, modelado predictivo y machine learning.
   
-    Lenguajes de Programación: Python, SQL.
+    Lenguajes de Programación: Python, SQL, PySpark.
 
